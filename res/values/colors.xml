@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_the_server">#E7EEF8</color>
+    <color name="server_normal">#00EE00</color>
+    <color name="color_setting">#DADADA</color>
+    <color name="color_login_text">#FFFFFF</color>
+    <color name="color_home">#CCCDCC</color>
+    <color name="color_home_login">#F0F0F0</color>
+    <color name="color_server">#CCE8FF</color>
+    <color name="color_athletes">#00CCFF</color>
+    <color name="color_referee">#FE0000</color>
+    <color name="color_yellow">#FFFF00</color>
+    <color name="color_black">#000000</color>
+    <color name="color_Claret">#8E3802</color>
+    <color name="color_match">#349BFF</color>
+    <color name="color_matches">#C7EDCC</color>
+    <color name="color_background">#CAE8FB</color>
+    <color name="color_textsize">#71CCED</color>
+    <color name="color_game">#AEB0BD</color>
+    <color name="color_list">#C7EDCC</color>
+    <color name="color_red">#FF0000</color>
+    <color name="color_yell">#FFD800</color>
+    <color name="color_login_pitch">#CCE4F7</color>
+
+</resources>

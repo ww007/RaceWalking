@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <dimen name="layout_marginTop">3dp</dimen>
+    <dimen name="layout_home">5dp</dimen>
+    <dimen name="layout_marginLeft">110dp</dimen>
+    <dimen name="connect_server">120dp</dimen>
+    <dimen name="layout_home_setting">50dp</dimen>
+    <dimen name="the_weigth">10dp</dimen>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="margin">50dip</dimen>
+    <dimen name="margin_number">30dp</dimen>
+    <dimen name="number_ed">35dp</dimen>
+    <dimen name="number_home">20dp</dimen>
+    <dimen name="number_with">50dp</dimen>
+    <dimen name="num_widths">60dp</dimen>
+    <dimen name="margin_num">75dp</dimen>
+    <dimen name="width">80dp</dimen>
+    <dimen name="withs">70dp</dimen>
+    <dimen name="event_width">150dp</dimen>
+    <dimen name="referee_width">150dp</dimen>
+    <dimen name="home_with">160dp</dimen>
+    <dimen name="height">10dp</dimen>
+    <dimen name="athletes_height">100dp</dimen>
+    <dimen name="spacing">105dp</dimen>
+    <dimen name="athlete_right">90dp</dimen>
+    <dimen name="athletes_bit">40dp</dimen>
+    <dimen name="fine">130dp</dimen>
+    <dimen name="login">140dp</dimen>
+    <dimen name="logout">120dp</dimen>
+    <dimen name="the_date">200dp</dimen>
+    <dimen name="the_server">300dp</dimen>
+    <dimen name="the_empty">260dp</dimen>
+    <dimen name="the_height">270dp</dimen>
+    <dimen name="the_fine">280dp</dimen>
+    <dimen name="the_wipe_data">290dp</dimen>
+    <dimen name="the_spacing">330dp</dimen>
+    <dimen name="game">350dp</dimen>
+
+</resources>

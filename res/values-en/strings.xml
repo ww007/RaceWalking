@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FPL_RaceWaiking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="server_status">Server state：</string>
+    <string name="server_status_setting">Setting</string>
+    <string name="judge">Referee：</string>
+    <string name="password">Password：</string>
+    <string name="judge_position">Referee position：</string>
+    <string name="login">Login</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="show_item">show items：</string>
+    <string name="isConnecting">in the connection</string>
+
+    <!-- 主界面设置 -->
+    <string name="Event">Click to select the race item</string>
+    <string name="plese_select">Please select the competition first</string>
+    <string name="Toast_has_red">You have already made a red card for the athlete and you can not repeat the call</string>
+    <string name="Toast_no_athlete">the athlete doesn not exist</string>
+    <string name="Number">number</string>
+    <string name="Serial_number">order number</string>
+    <string name="Athletes">Athlete：</string>
+    <string name="Penalty_time">Penalty time：</string>
+    <string name="Red">Red card</string>
+    <string name="Yellow">Yellow card</string>
+    <string name="Genuflex">knee bend</string>
+    <string name="Flight">soar</string>
+    <string name="Penalty_list">Penalty list</string>
+    <string name="Login_settings">login setting</string>
+    <string name="item_select">Click to select the race item</string>
+    <!-- 登陆界面设置 -->
+    <string name="Referee">Referee：</string>
+    <string name="input">referee</string>
+    <string name="input_pas">password</string>
+    <string name="Referee_number">Position：</string>
+    <string name="input_number">position</string>
+    <string name="Login">Login</string>
+    <string name="Set_up">Server setting</string>
+    <string name="Cancel">Cancel</string>
+    <string name="normal">normal</string>
+    <string name="abnormal">abnormal</string>
+    <string name="faild_connection">Network connection failed</string>
+    <string name="wrong_password">Password error</string>
+    <string name="no_refree_pass">refree or password is null</string>
+    <string name="no_this_account">no this account</string>
+    <!-- 服务器连接界面 -->
+    <string name="Addres">Server address：</string>
+    <string name="Connection_state">Connection state：</string>
+    <string name="Delault_address">Delault address</string>
+    <string name="Test_connection">Test connection</string>
+    <string name="Date_management">Date management：</string>
+    <string name="Wipe_date">Wipe date</string>
+    <string name="dialog_clear_data">Whether to empty all local data</string>
+    <string name="dialog_code">Security code：</string>
+    <!-- 比赛项目设置 -->
+    <string name="Chinese">Chinese</string>
+    <string name="English">English</string>
+    <string name="confirm">Confirm</string>
+    <!-- 判罚列表界面 -->
+    <string name="Referee_information">the info of referee</string>
+    <string name="plese_select_upload">Please select the content you need to upload first</string>
+    <string name="no_failed_item">no failed upload items</string>
+    <string name="Select">select all</string>
+    <string name="Athlete">athlete：</string>
+    <string name="State_referee">state</string>
+    <string name="Fine_style">Penalty type：</string>
+    <string name="Fine_content">Penalty content：</string>
+    <string name="Time">Penalty time：</string>
+    <string name="Fine_number">total:</string>
+    <string name="Send_success">send successful</string>
+    <string name="Fail_in_send">send failure</string>
+    <string name="Resend_select">Resend selected</string>
+    <string name="Resend_fail">Resend failure</string>
+    <string name="Print_select">Print selected</string>
+    <string name="title_activity_service_setting">ServiceSettingActivity</string>
+    <string name="title_activity_game_item">GameItemActivity</string>
+    <string name="title_activity_foul_list">FoulListActivity</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FPL_RaceWaiking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="server_status">服务器状态：</string>
+    <string name="server_status_setting">设置</string>
+    <string name="judge">裁判员：</string>
+    <string name="password">密&#160;&#160;&#160;&#160;码：</string>
+    <string name="judge_position">裁判员站位：</string>
+    <string name="login">登录</string>
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <string name="show_item">显示项目：</string>
+    <string name="isConnecting">连接中</string>
+
+    <!-- 主界面设置 -->
+    <string name="Event">点击选择比赛项目</string>
+    <string name="plese_select">请先选择比赛项目</string>
+    <string name="Toast_has_red">你已对该运动员进行过红卡判罚，不可重复判罚</string>
+    <string name="Toast_no_athlete">运动员不存在</string>
+    <string name="Number">编号</string>
+    <string name="Serial_number">序号</string>
+    <string name="Athletes">运动员：</string>
+    <string name="Penalty_time">判罚时间：</string>
+    <string name="Red">红卡</string>
+    <string name="Yellow">黄卡</string>
+    <string name="Genuflex">屈膝</string>
+    <string name="Flight">腾空</string>
+    <string name="Penalty_list">判罚列表</string>
+    <string name="Login_settings">登录设置</string>
+    <string name="item_select">点击选择比赛项目</string>
+    <!-- 登陆界面设置 -->
+    <string name="Referee">裁判员：</string>
+    <string name="input">输入裁判员（必需）</string>
+    <string name="input_pas">输入登录密码（必需）</string>
+    <string name="Referee_number">站位号：</string>
+    <string name="input_number">输入站位号（非必需）</string>
+    <string name="Login">登录</string>
+    <string name="Set_up">服务器设置</string>
+    <string name="Cancel">取消</string>
+    <string name="normal">正常</string>
+    <string name="abnormal">异常</string>
+    <string name="faild_connection">网络连接失败</string>
+    <string name="wrong_password">密码错误</string>
+    <string name="no_refree_pass">裁判员或密码为空</string>
+    <string name="no_this_account">账号不存在</string>
+    <!-- 服务器连接界面 -->
+    <string name="Addres">服务器地址：</string>
+    <string name="Connection_state">连 接 状 态：</string>
+    <string name="Delault_address">默认地址</string>
+    <string name="Test_connection">测试连接</string>
+    <string name="Date_management">数 据 管 理：</string>
+    <string name="Wipe_date">清空数据</string>
+    <string name="dialog_clear_data">是否清空所有本地数据</string>
+    <string name="dialog_code">输入验证码：</string>
+    <!-- 比赛项目设置 -->
+    <string name="Chinese">中文</string>
+    <string name="English">英文</string>
+    <string name="confirm">确认</string>
+    <!-- 判罚列表界面 -->
+    <string name="Referee_information">显示裁判员信息</string>
+    <string name="plese_select_upload">请先选中需要上传的内容</string>
+    <string name="no_failed_item">无发送失败的项目</string>
+    <string name="Select">全选</string>
+    <string name="Athlete">运&#160;&#160;动&#160;&#160;员：</string>
+    <string name="State_referee">状态</string>
+    <string name="Fine_style">判罚类型：</string>
+    <string name="Fine_content">判罚类容：</string>
+    <string name="Time">判罚时间：</string>
+    <string name="Fine_number">判罚数:</string>
+    <string name="Send_success">发送成功</string>
+    <string name="Fail_in_send">发送失败</string>
+    <string name="Resend_select">重发选中</string>
+    <string name="Resend_fail">重发失败 </string>
+    <string name="Print_select">打印选中</string>
+    <!-- 弹出框设置 -->
+    <string name="title_activity_service_setting">ServiceSettingActivity</string>
+    <string name="title_activity_game_item">GameItemActivity</string>
+    <string name="title_activity_foul_list">FoulListActivity</string>
+
+</resources>
